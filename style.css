@@ -88,6 +88,7 @@ span{
 }
 
 .home-img img{
+    border-radius: 10%;
     width: 25vw;
    animation: floatImage 4s ease-in-out infinite;
 }
